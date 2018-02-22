@@ -1,0 +1,2 @@
+[workspace]
+members = [ "graf", "graf-build" ]

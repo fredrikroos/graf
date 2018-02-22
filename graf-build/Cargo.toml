@@ -1,0 +1,11 @@
+[package]
+name = "graf-build"
+version = "0.0.1"
+authors = ["Fredrik Roos <fredrik.roos@gmail.com>"]
+
+[dependencies]
+graphql-parser = "0.2.0"
+quote = "0.4.2"
+heck = "0.3.0"
+proc-macro2 = "0.2"
+
