@@ -2,6 +2,10 @@
 name = "graf-build"
 version = "0.0.1"
 authors = ["Fredrik Roos <fredrik.roos@gmail.com>"]
+repository = "https://github.com/fredrikroos/graf"
+homepage = "https://github.com/fredrikroos/graf"
+license = "MIT/Apache-2.0"
+readme = "README.md"
 
 [dependencies]
 graphql-parser = "0.2.0"
